@@ -503,5 +503,9 @@ public class BaseClass {
 		Date date = new Date();
 		return date;
 	}
+	
+	public static void git(){
+		system.out.println("hai git");
+	}
 
 }
